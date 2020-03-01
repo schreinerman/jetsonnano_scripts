@@ -1,2 +1,2 @@
-# jetsonnano_scripts
+# Jetson Nano Scripts
 Scripts for Jetson Nano
